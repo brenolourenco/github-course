@@ -1,3 +1,4 @@
 Arquivo README.
 
-Curso de Git.
+Curso de Git e GitHub.
+Curso muito bom!
